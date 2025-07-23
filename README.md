@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - 🧠 I'm an undergraduate majoring in AI at South China University of Technology
 - 🤖 I'm currently working in @SCUT-RobotIC Lab
 - 🔭 I’m interested in AIGC, MLLM and Adversarial ML
+- 🤨 I'm exploring RAG for LLMs & LLM Agents recently
+- 😋My dream is to build a cute, android waifu
 
 #### Language, Platform and Tools
 <p align="center">
